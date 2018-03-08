@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+
+# parcel bundler
+.cache
+/dist
+
+# macOS env files
+.DS_Store
